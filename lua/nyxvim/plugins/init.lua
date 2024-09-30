@@ -2,7 +2,7 @@ return {
   "nvim-lua/plenary.nvim",
 
   {
-    "NvyxVim/base46",
+    "NyxVim/base46",
     build = function()
       require("base46").load_all_highlights()
     end,
