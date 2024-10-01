@@ -59,7 +59,7 @@ M.defaults = function()
   dofile(vim.g.base46_cache .. "lsp")
   require("nyxvim.lsp").diagnostic_config()
 
-  require("lua.nyxvim.configs.lspconfig").lua_ls.setup {
+  require("lspconfig").lua_ls.setup {
     on_attach = M.on_attach,
     capabilities = M.capabilities,
     on_init = M.on_init,

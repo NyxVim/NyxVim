@@ -98,7 +98,7 @@ return {
         }, false, {})
       end
 
-      require("lua.nyxvim.configs.mason").setup(opts)
+      require("mason").setup(opts)
     end,
   },
 
