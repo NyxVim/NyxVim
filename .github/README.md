@@ -21,7 +21,7 @@
 
 </div>
 
-![NyxVim Showcase](.github/showcase/nyxvim_showcase.png)
+![NyxVim Showcase](https://raw.githubusercontent.com/NyxVim/NyxVim/refs/heads/main/.github/showcase/showcase.png)
 
 ## About NyxVim
 
@@ -38,7 +38,7 @@ For detailed information, installation instructions, and feature list, please vi
 
 NyxVim comes with a sleek and informative dashboard to greet you when you start Neovim:
 
-![NyxVim Dashboard](.github/showcase/nyxvim_dashboard.png)
+![NyxVim Dashboard](https://raw.githubusercontent.com/NyxVim/NyxVim/refs/heads/main/.github/showcase/nyxdash.png)
 
 ## Quick Start
 
